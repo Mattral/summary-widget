@@ -15,6 +15,8 @@ Codersrank Summary Widget is a web component that allows you integrate widget wi
 
 <img src="preview.png" />
 
+<codersrank-summary username="mattral"></codersrank-summary>
+
 ## Install from NPM
 
 Widget script available through NPM:
