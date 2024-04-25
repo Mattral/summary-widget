@@ -14,7 +14,8 @@
 Codersrank Summary Widget is a web component that allows you integrate widget with your [CodersRank](https://codersrank.io) profile summary to your personal website:
 
 <img src="preview.png" />
-
+<!-- replace x.x.x with actual version -->
+<script src="https://unpkg.com/@codersrank/summary@x.x.x/codersrank-summary.min.js"></script>
 <codersrank-summary username="mattral"></codersrank-summary>
 
 ## Install from NPM
