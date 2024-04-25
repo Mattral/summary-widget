@@ -17,6 +17,10 @@ Codersrank Summary Widget is a web component that allows you integrate widget wi
 <!-- replace x.x.x with actual version -->
 <codersrank-summary username="mattral"></codersrank-summary>
 
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=YOUR_USERNAME"
+/>
+
 ## Install from NPM
 
 Widget script available through NPM:
